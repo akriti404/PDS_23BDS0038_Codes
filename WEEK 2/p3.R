@@ -1,4 +1,4 @@
-# Function to subtract two numbers
+# Function to multiply two numbers
 mul_numbers <- function(a, b) {
   return(a * b)
 }
