@@ -38,4 +38,3 @@ print(inner_join_result)
 outer_join_result <- full_join(donors, donations, by = "DonorName")
 print("Outer Join Result:")
 print(outer_join_result)
-
