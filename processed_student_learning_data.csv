@@ -1,0 +1,11 @@
+"Student_ID","Course","Semester","Study_Hours","Attendance_Percentage","Assignment_Score","Exam_Score","Satisfaction_Level","City","Latitude","Longitude","Final_Performance_Score"
+1,"CSE",1,3.5,85,78,82,4,"Chennai",13.0827,80.2707,80.4
+2,"ECE",2,4,90,85,88,5,"Bangalore",12.9716,77.5946,86.8
+3,"MECH",1,2.5,75,70,72,3,"Hyderabad",17.385,78.4867,71.2
+4,"CSE",3,5,95,92,94,5,"Mumbai",19.076,72.8777,93.2
+5,"ECE",2,3,80,75,78,4,"Delhi",28.7041,77.1025,76.8
+6,"CIVIL",1,2,70,65,68,2,"Kolkata",22.5726,88.3639,66.8
+7,"CSE",4,6,98,95,97,5,"Pune",18.5204,73.8567,96.2
+8,"MECH",3,3.5,85,80,82,4,"Ahmedabad",23.0225,72.5714,81.2
+9,"ECE",1,2.8,78,72,75,3,"Jaipur",26.9124,75.7873,73.8
+10,"CIVIL",2,3.2,82,77,79,4,"Lucknow",26.8467,80.9462,78.2
